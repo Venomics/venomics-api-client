@@ -1,9 +1,9 @@
 # Venomics-API-Client
 
-[![PyPI version fury.io](https://badge.fury.io/py/redash-api-client.svg)](https://pypi.org/project/redash-api-client/)
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/redash-api-client.svg)](https://pypi.python.org/pypi/redash-api-client/)
-[![PyPI license](https://img.shields.io/pypi/l/redash-api-client.svg)](https://pypi.python.org/pypi/redash-api-client/)
-[![Downloads](https://pepy.tech/badge/redash-api-client)](https://pepy.tech/project/redash-api-client)
+[![PyPI version fury.io](https://badge.fury.io/py/venomics-client.svg)](https://pypi.org/project/venomics-client/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/venomics-client.svg)](https://pypi.python.org/pypi/venomics-client/)
+[![PyPI license](https://img.shields.io/pypi/l/venomics-client.svg)](https://pypi.python.org/pypi/venomics-client/)
+[![Downloads](https://pepy.tech/badge/venomics-client)](https://pepy.tech/project/venomics-client)
 
 The official API client and utilities to manage a Venomics instance written in Python.
 
